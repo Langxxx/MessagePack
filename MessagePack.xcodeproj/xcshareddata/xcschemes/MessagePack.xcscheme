@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3C06506720453F9B000C96C7"
-               BuildableName = "MessagePack.framework"
-               BlueprintName = "MessagePack"
+               BuildableName = "MessagePackSwift.framework"
+               BlueprintName = "MessagePackSwift"
                ReferencedContainer = "container:MessagePack.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,8 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -46,13 +44,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3C06506720453F9B000C96C7"
-            BuildableName = "MessagePack.framework"
-            BlueprintName = "MessagePack"
+            BuildableName = "MessagePackSwift.framework"
+            BlueprintName = "MessagePackSwift"
             ReferencedContainer = "container:MessagePack.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -64,8 +60,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3C06506720453F9B000C96C7"
-            BuildableName = "MessagePack.framework"
-            BlueprintName = "MessagePack"
+            BuildableName = "MessagePackSwift.framework"
+            BlueprintName = "MessagePackSwift"
             ReferencedContainer = "container:MessagePack.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -86,8 +82,8 @@
                   <BuildableReference
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "3C06506720453F9B000C96C7"
-                     BuildableName = "MessagePack.framework"
-                     BlueprintName = "MessagePack"
+                     BuildableName = "MessagePackSwift.framework"
+                     BlueprintName = "MessagePackSwift"
                      ReferencedContainer = "container:MessagePack.xcodeproj">
                   </BuildableReference>
                </EnvironmentBuildable>

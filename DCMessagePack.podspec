@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name     = "MessagePackSwift"
-  s.version  = "1.0.1"
+  s.name     = "DCMessagePack"
+  s.version  = "1.0.3"
   s.license  = "ALL_RIGHTS_RESERVED"
   s.summary  = "MessagePack for BearyChat iOS."
   s.homepage = "https://github.com/langxxx/MessagePack"

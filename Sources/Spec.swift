@@ -30,7 +30,7 @@ public struct Binary {
 extension Binary: Hashable {
 
     public var hashValue: Int {
-        return MessagePackSwift.hash(bytes: bytes)
+        return DCMessagePack.hash(bytes: bytes)
     }
 
 }
@@ -56,7 +56,7 @@ public struct Extension {
 extension Extension: Hashable {
 
     public var hashValue: Int {
-        return MessagePackSwift.hash(bytes: [UInt8(type)] + binary.bytes)
+        return DCMessagePack.hash(bytes: [UInt8(type)] + binary.bytes)
     }
 
 }
